@@ -94,6 +94,7 @@ public class PlayerController : MonoBehaviour
                 isLanding = true;
                 landingTimer = landingDuration;
                 Debug.Log("ÂøÁö");
+                
                     
             }
         }
